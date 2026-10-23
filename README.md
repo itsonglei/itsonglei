@@ -18,10 +18,19 @@ I care about clear boundaries, measurable behavior, and product-visible outcomes
 - Making agent behavior observable, recoverable, and ready for real users.
 - Building reusable skills that work across multiple agent tools.
 
-## Selected projects
+## Repository map
 
-- [**Easel**](https://github.com/itsonglei/Easel) — an open-source AI agent for discovering trends, creating content, publishing across social platforms, and learning from results.
+### Original work
+
 - [**discussion-focus-skill**](https://github.com/itsonglei/discussion-focus-skill) — a portable Agent Skill for controlling topic drift and converging through small, verifiable iterations.
+- [**cleanup-unused-imports**](https://github.com/itsonglei/cleanup-unused-imports) — an Agent Skill for safely cleaning unused imports and confirmed orphan source files in React/Vue projects.
+
+### Learning and reference projects
+
+- [**docs**](https://github.com/itsonglei/docs) — a documentation-site learning project based on the [Mintlify starter](https://github.com/mintlify/starter).
+- [**Method-Draw**](https://github.com/itsonglei/Method-Draw), [**utp2018-6-bitmap-editor**](https://github.com/itsonglei/utp2018-6-bitmap-editor) — archived fork-based learning and reference projects.
+
+The labels above describe repository origin and intent. GitHub fork relationships remain visible wherever applicable; a fork is not presented as original work.
 
 ## Engineering stack
 
